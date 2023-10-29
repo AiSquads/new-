@@ -20,13 +20,14 @@ section {
   text-align: center;
   width: 80%;
   margin-left: 10%;
+  min-height: 50vh;
 }
 
 form {
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin-left: 40%;
+  margin-left: 38%;
 }
 
 /* section form {
@@ -90,18 +91,19 @@ section form input {
   border-top: 2px solid;
 } */
 
-section header {
+section header{
   margin-top: 30px;
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 button {
   margin-right: 55%;
   margin-top: 10%;
   margin-bottom: 6%;
-  width: 15%;
+  width: 18%;
   height: 35px;
-  font-size: 1rem;
+  padding: 10px auto;
+  font-size: .8rem;
   font-weight: 800;
   letter-spacing: 2px;
   border-radius: 10px;
